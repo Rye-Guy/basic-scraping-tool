@@ -1,0 +1,22 @@
+{
+  "name": "basic-scraping-tool",
+  "version": "1.0.0",
+  "description": "A repo with required packages for scraping web sites and single page apps ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rye-Guy/basic-scraping-tool.git"
+  },
+  "author": "RyeGuy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rye-Guy/basic-scraping-tool/issues"
+  },
+  "homepage": "https://github.com/Rye-Guy/basic-scraping-tool#readme",
+  "dependencies": {
+    "puppeteer": "^1.13.0"
+  }
+}
